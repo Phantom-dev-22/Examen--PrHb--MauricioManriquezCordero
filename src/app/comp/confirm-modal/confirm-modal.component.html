@@ -1,0 +1,16 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Confirmar Eliminación</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="ion-padding">
+  <p>¿Estás seguro de eliminar "{{ postTitle }}"?</p>
+  
+  <ion-button expand="block" color="danger" (click)="confirm()">
+    Eliminar
+  </ion-button>
+  <ion-button expand="block" fill="outline" (click)="cancel()">
+    Cancelar
+  </ion-button>
+</ion-content>
