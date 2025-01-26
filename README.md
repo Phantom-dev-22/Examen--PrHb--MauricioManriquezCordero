@@ -1,3 +1,3 @@
 # Examen Programación Híbrida
-MauricioManriquezCordero
+Mauricio Manriquez Cordero
  
