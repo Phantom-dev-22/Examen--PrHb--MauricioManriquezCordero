@@ -1,2 +1,3 @@
-# Examen--PrHb--MauricioManriquezCordero
+# Examen Programación Híbrida
+MauricioManriquezCordero
  
